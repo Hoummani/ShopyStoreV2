@@ -1,28 +1,15 @@
 # ShopyStoreV2
-E-commerce web app with asp dotnet core and angular
 
-# A simple, cross platform, modularized ecommerce system built on .NET Core [![Join the chat at https://gitter.im/simplcommerce/SimplCommerce](https://badges.gitter.im/simplcommerce/SimplCommerce.svg)](https://gitter.im/simplcommerce/SimplCommerce?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-## High level architecture
+# A simple, cross platform, modularized ecommerce system built on .NET Core 
 
-![SimpleCommerce - Modular architecture](https://raw.githubusercontent.com/simplcommerce/SimplCommerce/master/modular-architecture.png)
 
-## Build Status
-| Build server    | Platform       | Status      |
-|-----------------|----------------|-------------|
-| AppVeyor        | Windows        |[![Build status](https://ci.appveyor.com/api/projects/status/cq61prgs6ta8e9hi/branch/master?svg=true)](https://ci.appveyor.com/project/thiennn/simplcommerce/branch/master) |
-| Azure Pipelines | All            |[![Build Status](https://simplcommerce.visualstudio.com/simplcommerce/_apis/build/status/simplcommerce.SimplCommerce?branchName=master)](https://simplcommerce.visualstudio.com/simplcommerce/_build/latest?definitionId=1&branchName=master)
-|Travis           | Linux / MacOS  |[![Build Status](https://travis-ci.org/simplcommerce/SimplCommerce.svg?branch=master)](https://travis-ci.org/simplcommerce/SimplCommerce) |
-
-## Online demo (Azure Website)
-- Store front: http://demo.simplcommerce.com
-- Administration: http://demo.simplcommerce.com/admin Email: admin@simplcommerce.com Password: 1qazZAQ!
 
 ## Docker
 
 For testing purpose only `docker run -p 5000:80 simplcommerce/ci-build`
 
-Continuous deployment: https://ci.simplcommerce.com
+
 
 ## Visual Studio 2017 and SQL Server
 
