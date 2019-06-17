@@ -56,7 +56,6 @@ For testing purpose only `docker run -p 5000:80 simplcommerce/ci-build`
 - Star this project on GitHub.
 - Report bugs or suggest features by create new issues or add comments to issues
 - Submit pull requests
-- Spread the word by blogging about SimplCommerce or sharing it on social networks
 - Donate us
 
 
