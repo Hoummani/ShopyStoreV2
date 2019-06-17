@@ -20,10 +20,10 @@ For testing purpose only `docker run -p 5000:80 simplcommerce/ci-build`
 
 #### Steps to run
 
-- Update the connection string in appsettings.json in SimplCommerce.WebHost
+- Update the connection string in appsettings.json in ShopyStore.WebHost
 - Build whole solution.
-- In Solution Explorer, make sure that SimplCommerce.WebHost is selected as the Startup Project
-- Open Package Manager Console Window and make sure that SimplCommerce.WebHost is selected as Default project. Then type "Update-Database" then press "Enter". This action will create database schema.
+- In Solution Explorer, make sure that ShopyStore.WebHost is selected as the Startup Project
+- Open Package Manager Console Window and make sure that ShopyStore.WebHost is selected as Default project. Then type "Update-Database" then press "Enter". This action will create database schema.
 - In Visual Studio, press "Control + F5".
 - The back-office can access via /Admin using the new user account
 
