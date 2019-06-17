@@ -1,0 +1,11 @@
+/home/anonymous/DotNetCoreWorkspace/webPayementCore/SimplCommerce-master/src/SimplCommerce.Infrastructure/bin/Debug/netcoreapp2.2/SimplCommerce.Infrastructure.deps.json
+/home/anonymous/DotNetCoreWorkspace/webPayementCore/SimplCommerce-master/src/SimplCommerce.Infrastructure/bin/Debug/netcoreapp2.2/SimplCommerce.Infrastructure.runtimeconfig.json
+/home/anonymous/DotNetCoreWorkspace/webPayementCore/SimplCommerce-master/src/SimplCommerce.Infrastructure/bin/Debug/netcoreapp2.2/SimplCommerce.Infrastructure.runtimeconfig.dev.json
+/home/anonymous/DotNetCoreWorkspace/webPayementCore/SimplCommerce-master/src/SimplCommerce.Infrastructure/bin/Debug/netcoreapp2.2/SimplCommerce.Infrastructure.dll
+/home/anonymous/DotNetCoreWorkspace/webPayementCore/SimplCommerce-master/src/SimplCommerce.Infrastructure/bin/Debug/netcoreapp2.2/SimplCommerce.Infrastructure.pdb
+/home/anonymous/DotNetCoreWorkspace/webPayementCore/SimplCommerce-master/src/SimplCommerce.Infrastructure/obj/Debug/netcoreapp2.2/SimplCommerce.Infrastructure.csproj.CoreCompileInputs.cache
+/home/anonymous/DotNetCoreWorkspace/webPayementCore/SimplCommerce-master/src/SimplCommerce.Infrastructure/obj/Debug/netcoreapp2.2/SimplCommerce.Infrastructure.AssemblyInfoInputs.cache
+/home/anonymous/DotNetCoreWorkspace/webPayementCore/SimplCommerce-master/src/SimplCommerce.Infrastructure/obj/Debug/netcoreapp2.2/SimplCommerce.Infrastructure.AssemblyInfo.cs
+/home/anonymous/DotNetCoreWorkspace/webPayementCore/SimplCommerce-master/src/SimplCommerce.Infrastructure/obj/Debug/netcoreapp2.2/SimplCommerce.Infrastructure.dll
+/home/anonymous/DotNetCoreWorkspace/webPayementCore/SimplCommerce-master/src/SimplCommerce.Infrastructure/obj/Debug/netcoreapp2.2/SimplCommerce.Infrastructure.pdb
+/home/anonymous/DotNetCoreWorkspace/webPayementCore/SimplCommerce-master/src/SimplCommerce.Infrastructure/obj/Debug/netcoreapp2.2/SimplCommerce.Infrastructure.csprojAssemblyReference.cache

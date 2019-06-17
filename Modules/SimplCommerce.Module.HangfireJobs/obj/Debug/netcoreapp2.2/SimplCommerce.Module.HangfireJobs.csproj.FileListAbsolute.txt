@@ -1,0 +1,17 @@
+/home/anonymous/DotNetCoreWorkspace/webPayementCore/SimplCommerce-master/src/Modules/SimplCommerce.Module.HangfireJobs/bin/Debug/netcoreapp2.2/SimplCommerce.Module.HangfireJobs.deps.json
+/home/anonymous/DotNetCoreWorkspace/webPayementCore/SimplCommerce-master/src/Modules/SimplCommerce.Module.HangfireJobs/bin/Debug/netcoreapp2.2/SimplCommerce.Module.HangfireJobs.runtimeconfig.json
+/home/anonymous/DotNetCoreWorkspace/webPayementCore/SimplCommerce-master/src/Modules/SimplCommerce.Module.HangfireJobs/bin/Debug/netcoreapp2.2/SimplCommerce.Module.HangfireJobs.runtimeconfig.dev.json
+/home/anonymous/DotNetCoreWorkspace/webPayementCore/SimplCommerce-master/src/Modules/SimplCommerce.Module.HangfireJobs/bin/Debug/netcoreapp2.2/SimplCommerce.Module.HangfireJobs.dll
+/home/anonymous/DotNetCoreWorkspace/webPayementCore/SimplCommerce-master/src/Modules/SimplCommerce.Module.HangfireJobs/bin/Debug/netcoreapp2.2/SimplCommerce.Module.HangfireJobs.pdb
+/home/anonymous/DotNetCoreWorkspace/webPayementCore/SimplCommerce-master/src/Modules/SimplCommerce.Module.HangfireJobs/bin/Debug/netcoreapp2.2/SimplCommerce.Infrastructure.dll
+/home/anonymous/DotNetCoreWorkspace/webPayementCore/SimplCommerce-master/src/Modules/SimplCommerce.Module.HangfireJobs/bin/Debug/netcoreapp2.2/SimplCommerce.Infrastructure.pdb
+/home/anonymous/DotNetCoreWorkspace/webPayementCore/SimplCommerce-master/src/Modules/SimplCommerce.Module.HangfireJobs/obj/Debug/netcoreapp2.2/SimplCommerce.Module.HangfireJobs.csprojAssemblyReference.cache
+/home/anonymous/DotNetCoreWorkspace/webPayementCore/SimplCommerce-master/src/Modules/SimplCommerce.Module.HangfireJobs/obj/Debug/netcoreapp2.2/SimplCommerce.Module.HangfireJobs.csproj.CoreCompileInputs.cache
+/home/anonymous/DotNetCoreWorkspace/webPayementCore/SimplCommerce-master/src/Modules/SimplCommerce.Module.HangfireJobs/obj/Debug/netcoreapp2.2/SimplCommerce.Module.HangfireJobs.RazorAssemblyInfo.cache
+/home/anonymous/DotNetCoreWorkspace/webPayementCore/SimplCommerce-master/src/Modules/SimplCommerce.Module.HangfireJobs/obj/Debug/netcoreapp2.2/SimplCommerce.Module.HangfireJobs.RazorAssemblyInfo.cs
+/home/anonymous/DotNetCoreWorkspace/webPayementCore/SimplCommerce-master/src/Modules/SimplCommerce.Module.HangfireJobs/obj/Debug/netcoreapp2.2/SimplCommerce.Module.HangfireJobs.AssemblyInfoInputs.cache
+/home/anonymous/DotNetCoreWorkspace/webPayementCore/SimplCommerce-master/src/Modules/SimplCommerce.Module.HangfireJobs/obj/Debug/netcoreapp2.2/SimplCommerce.Module.HangfireJobs.AssemblyInfo.cs
+/home/anonymous/DotNetCoreWorkspace/webPayementCore/SimplCommerce-master/src/Modules/SimplCommerce.Module.HangfireJobs/obj/Debug/netcoreapp2.2/SimplCommerce.Module.HangfireJobs.RazorTargetAssemblyInfo.cache
+/home/anonymous/DotNetCoreWorkspace/webPayementCore/SimplCommerce-master/src/Modules/SimplCommerce.Module.HangfireJobs/obj/Debug/netcoreapp2.2/SimplCommerce.Module.HangfireJobs.csproj.CopyComplete
+/home/anonymous/DotNetCoreWorkspace/webPayementCore/SimplCommerce-master/src/Modules/SimplCommerce.Module.HangfireJobs/obj/Debug/netcoreapp2.2/SimplCommerce.Module.HangfireJobs.dll
+/home/anonymous/DotNetCoreWorkspace/webPayementCore/SimplCommerce-master/src/Modules/SimplCommerce.Module.HangfireJobs/obj/Debug/netcoreapp2.2/SimplCommerce.Module.HangfireJobs.pdb
